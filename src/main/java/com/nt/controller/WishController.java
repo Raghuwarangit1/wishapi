@@ -8,6 +8,6 @@ public class WishController {
 	@GetMapping("/")
 public String getWish()
 {
-return "hi good moring raghu";	
+return "hi good moring raghu waran";	
 }
 }
